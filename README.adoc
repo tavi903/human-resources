@@ -1,0 +1,4 @@
+= Human Resources
+
+[source, Java]
+include::staff/src/main/java/com/tavi903/hr/staff/entity/Employee.java[lines=8..15]

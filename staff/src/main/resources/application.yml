@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Staff
+  liquibase:
+    enabled: true
+    change-log: classpath:changelog/changelog-master.xml
+  jpa:
+    hibernate:
+      ddl-auto: none
